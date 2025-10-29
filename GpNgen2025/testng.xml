@@ -4,7 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       
-   <class name="com.GpNgen.TestCases.E2E_jobScenario_TraditionalPlus_CompJobProcess"/>
+   
+   <class name="com.GpNgen.TestCases.TC_TraditionalPlus_E2E"/>
      
      
       
